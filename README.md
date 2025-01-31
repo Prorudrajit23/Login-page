@@ -19,7 +19,7 @@ This repository contains a simple and responsive login page built using HTML, CS
 
 ## Screenshots
 
-![](https://drive.google.com/file/d/1EtUunheuoWKlSYDoHOIwS0SpwD0L_zBl/view?usp=sharing)
+![image](https://github.com/user-attachments/assets/38ad8703-226b-495f-949b-090b0607c929)
 
 
 ## Deployment
